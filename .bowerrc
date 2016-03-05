@@ -1,0 +1,5 @@
+{
+  "directory": "bower_components",
+  "proxy": "http://mykhaylo.dubovskyy:misha1990+@sgproxy.kyivstar.ua:3128",
+  "https-proxy":"http://mykhaylo.dubovskyy:misha1990+@sgproxy.kyivstar.ua:3128"
+}
